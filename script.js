@@ -1,0 +1,1 @@
+function login(){document.getElementById('modal').style.display='flex'}function closeLogin(){document.getElementById('modal').style.display='none'}function demo(n){alert(n+' — Demo service. Backend/API is not connected yet.')}window.onclick=e=>{if(e.target.id==='modal')closeLogin()}
